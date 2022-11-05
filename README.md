@@ -13,7 +13,7 @@
 🎓 I am studying in the last year of graduate studies at the Faculty of Chemistry 🧪, I am writing a dissertation 📕. </br>
 👨‍💻 I also currently work as a teacher in a private school where I teach students to understand the laws of nature. </br>
 📚 In my free time, I read documentation on website development. </br>
-📌I started my journey into the world of technology with the CS50 course last year. After that, I started learning JavaScript, went through the <a href="https://uk.javascript.info"></a> tutorial from start to finish </br>
+📌I started my journey into the world of technology with the CS50 course last year. After that, I started learning JavaScript, went through the <a href="https://uk.javascript.info">https://uk.javascript.info</a> tutorial from start to finish </br>
 📌After learning JavaScript, I went on to learn the basics of HTML and CSS. Once I got the basics out of the way, I started creating a longer JavaScript foundation </br>
 
 ## 🛠️  Languages and Tools :
