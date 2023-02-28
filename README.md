@@ -10,11 +10,16 @@
 </div>
 
 ## :woman_technologist: About Me :
-🎓 I am studying in the last year of graduate studies at the Faculty of Chemistry 🧪, I am writing a dissertation 📕. </br>
-👨‍💻 I also currently work as a teacher in a private school where I teach students to understand the laws of nature. </br>
-📚 In my free time, I read documentation on website development. </br>
-📌I started my journey into the world of technology with the CS50 course last year. After that, I started learning JavaScript, went through the <a href="https://uk.javascript.info">https://uk.javascript.info</a> tutorial from start to finish </br>
-📌After learning JavaScript, I went on to learn the basics of HTML and CSS. Once I got the basics out of the way, I started creating a longer JavaScript foundation </br>
+
+📚 As a graduate student in chemistry, I'm dedicated to expanding my skills beyond my core field of study. In my free time, I've been actively exploring the world of web development, focusing specifically on javaScript and related technologies. I'm passionate about learning new skills and applying them to my work.
+
+💻 Once I felt comfortable with JavaScript, I started learning the basics of HTML and CSS. With these foundational skills in place, I began building more complex JavaScript projects, expanding my knowledge and honing my programming abilities.
+
+🔮 In terms of styling web applications, I've been improving my knowledge of CSS preprocessors, such as Sass and Less, which allow for more efficient and maintainable styling of web pages. 
+
+🚀 Additionally, I've been actively using popular JavaScript libraries and frameworks, such as React, to build dynamic and interactive web applications.
+
+🔥 Ultimately, my goal is to become a skilled and versatile developer with a deep understanding of  JavaScript, and related technologies. I'm excited to continue learning and exploring this dynamic field, and I'm committed to staying up-to-date with the latest developments and best practices.
 
 ## 🛠️  Languages and Tools :
 
@@ -33,4 +38,5 @@
 <div>
   <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=onikaChorba&theme=dark&hide_border=true&border_radius=4.8"></a>
 </div>
+
 
