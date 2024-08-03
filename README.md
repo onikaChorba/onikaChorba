@@ -1,42 +1,34 @@
-
-<div id="header" align="center">
+<div id="header" align="center" width="100%">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
   
   # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I`m Onika
   
-  <div id="badges">
-   <a href="https://www.linkedin.com/in/оnika-chorba-2b0339198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  </div>
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/оnika-chorba-2b0339198/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio Badge"/>](https://onikachorba.github.io/myPortfolio/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>](https://github.com/onikaChorba/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>](mailto:onika.chorba@gmail.com)
+
+
 </div>
 
-## :woman_technologist: About Me :
+</br>
+I'm a highly motivated Frontend Developer with expertise in the React stack. Detail-oriented, creative, and proficient in modern web development technologies, I am always committed to continuous learning and growth.
 
-📚 As a graduate student in chemistry, I'm dedicated to expanding my skills beyond my core field of study. In my free time, I've been actively exploring the world of web development, focusing specifically on javaScript and related technologies. I'm passionate about learning new skills and applying them to my work.
+### 🚀 My Journey
+**Frontend Layout Developer @ Pixel24 AG**  
+*July 2023 - Present*  
+🚀 Developing and maintaining front-end code with TypeScript, JavaScript, React, HTML, and CSS. I specialize in advanced CSS techniques using Sass, Styled-components, Tailwind, and Material-UI to create dynamic and reusable components. My work focuses on delivering exceptional user experiences across various devices, utilizing advanced technologies to enhance both performance and flexibility.
 
-💻 Once I felt comfortable with JavaScript, I started learning the basics of HTML and CSS. With these foundational skills in place, I began building more complex JavaScript projects, expanding my knowledge and honing my programming abilities.
+**Frontend Developer, Freelance Adventurer**  
+*September 2021 - July 2023*  
+🛠️ As a self-starter, I dove into various projects, mastering Next.js, Vue.js, React, HTML, and CSS. By integrating APIs and Redux, I brought data to life with seamless interactions. I’ve styled my creations with advanced CSS techniques and deployed them on platforms like Vercel and GitHub Pages for blazing-fast performance.
 
-🔮 In terms of styling web applications, I've been improving my knowledge of CSS preprocessors, such as Sass and Less, which allow for more efficient and maintainable styling of web pages. 
-
-🚀 Additionally, I've been actively using popular JavaScript libraries and frameworks, such as React, to build dynamic and interactive web applications.
-
-🔥 Ultimately, my goal is to become a skilled and versatile developer with a deep understanding of  JavaScript, and related technologies. I'm excited to continue learning and exploring this dynamic field, and I'm committed to staying up-to-date with the latest developments and best practices.
-
-## 🛠️  Languages and Tools :
-
-<div id="languages" align="left" > 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-       height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="webpack" alt="webpack" width="40" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
-</div>
-
-## :fire: My Stats :
-<div>
-  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=onikaChorba&theme=dark&hide_border=true&border_radius=4.8"></a>
-</div>
+### 🛠️ Tech Arsenal
+- **Languages & Frameworks**: TypeScript, JavaScript, React, Redux, Next.js, Vue.js
+- **Design & Styling**: HTML, CSS, Sass, Styled-components, Tailwind, Material-UI
+- **Other Skills**: API integration, Git, Webpack, SPAs
 
 
