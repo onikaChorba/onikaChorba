@@ -19,7 +19,7 @@ I'm a highly motivated Frontend Developer with expertise in the React stack. Det
 
 ### 🚀 My Journey
 **Frontend Layout Developer @ Pixel24 AG**  
-*July 2023 - Present*  
+*July 2023 - September 2024*  
 🚀 Developing and maintaining front-end code with TypeScript, JavaScript, React, HTML, and CSS. I specialize in advanced CSS techniques using Sass, Styled-components, Tailwind, and Material-UI to create dynamic and reusable components. My work focuses on delivering exceptional user experiences across various devices, utilizing advanced technologies to enhance both performance and flexibility.
 
 **Frontend Developer, Freelance Adventurer**  
