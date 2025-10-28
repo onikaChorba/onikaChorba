@@ -5,7 +5,7 @@
   
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/оnika-chorba-2b0339198/)
 &nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio Badge"/>](https://onikachorba.github.io/myPortfolio/)
+[<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=link&logoColor=white" alt="Portfolio Badge"/>](https://onika-chorba-portfolio.vercel.app/)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>](https://github.com/onikaChorba/)
 &nbsp;&nbsp;&nbsp;
