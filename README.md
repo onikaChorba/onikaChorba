@@ -14,8 +14,15 @@
 
 </div>
 
-- **Languages & Frameworks**: TypeScript, JavaScript, React, Redux, Next.js, Vue.js
-- **Design & Styling**: HTML, CSS, Sass, Styled-components, Tailwind, Material-UI
-- **Other Skills**: API integration, Git, Webpack, SPAs
+### 🛠 Languages & Frameworks
+TypeScript, JavaScript, React, Redux, Next.js, Vue.js, Node.js
+
+### 🎨 Design & Styling
+HTML5, CSS3, Sass/SCSS, BEM, Styled-components, Tailwind CSS, Material-UI, Radix UI
+
+### ⚙️ Other Skills
+REST API integration, Firebase (Auth, Firestore, Storage, Hosting),  
+SwiperJS, Framer Motion, GSAP, SPA Architecture,  
+Git, GitLab, Bitbucket, Webpack, Jira, Slack
 
 
