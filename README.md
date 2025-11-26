@@ -14,19 +14,6 @@
 
 </div>
 
-</br>
-I'm a highly motivated Frontend Developer with expertise in the React stack. Detail-oriented, creative, and proficient in modern web development technologies, I am always committed to continuous learning and growth.
-
-### 🚀 My Journey
-**Frontend Layout Developer @ Pixel24 AG**  
-*July 2023 - September 2024*  
-🚀 Developing and maintaining front-end code with TypeScript, JavaScript, React, HTML, and CSS. I specialize in advanced CSS techniques using Sass, Styled-components, Tailwind, and Material-UI to create dynamic and reusable components. My work focuses on delivering exceptional user experiences across various devices, utilizing advanced technologies to enhance both performance and flexibility.
-
-**Frontend Developer, Freelance Adventurer**  
-*September 2021 - July 2023*  
-🛠️ As a self-starter, I dove into various projects, mastering Next.js, Vue.js, React, HTML, and CSS. By integrating APIs and Redux, I brought data to life with seamless interactions. I’ve styled my creations with advanced CSS techniques and deployed them on platforms like Vercel and GitHub Pages for blazing-fast performance.
-
-### 🛠️ Tech Arsenal
 - **Languages & Frameworks**: TypeScript, JavaScript, React, Redux, Next.js, Vue.js
 - **Design & Styling**: HTML, CSS, Sass, Styled-components, Tailwind, Material-UI
 - **Other Skills**: API integration, Git, Webpack, SPAs
